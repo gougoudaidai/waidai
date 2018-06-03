@@ -1,0 +1,175 @@
+div{
+    width:300px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+}
+div1{
+    width: 298px;
+    height: 40px;
+    background-color: white;
+    margin: 0 auto;
+}
+div3{
+    width: 230px;
+    height: 150px;
+    background-color: white;
+    margin: 0 auto;
+}
+div4{
+    width: 230px;
+    height: 40px;
+    background-color: lightgray;
+    margin: 0 auto;
+}
+div2{
+    width:74.5px;
+    height: 50px;
+    background-color: ghostwhite;
+}
+#t{
+    border-top:black 1px solid ;
+    border-bottom:black 1px solid ;
+    border-left:black 1px solid ;
+    border-right:black 1px solid ;
+    box-shadow: gray 10px 20px 10px;
+}
+#x1{
+    position: absolute;
+    top:10px;
+    left:490.5px;
+}
+x1{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+xi1{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+#y1{
+    position: absolute;
+    top:100px;
+    left:525px;
+}
+y1{
+    position: relative;
+    left:80px;
+    top:40px;
+}
+y2{
+    position: relative;
+    left:15px;
+    top:60px;
+}
+#y3{
+    position: absolute;
+    top:120px;
+    left:0px;
+}
+y3{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+y4{
+    position: relative;
+    left:50px;
+    top:10px;
+}
+yi1{
+    width: 15px;
+    height:15px;
+    position: relative;
+    left:32px;
+    top:10px;
+}
+yi2{
+    width: 15px;
+    height:15px;
+    position: relative;
+    left:105px;
+    top:10px;
+}
+#z1{
+    position: absolute;
+    top:458.5px;
+    left:490.5px;
+    border: 0.5px solid black;
+}
+#z2{
+    position: absolute;
+    top:458.5px;
+    left:565px;
+    border: 0.5px solid black;
+}
+#z3{
+    position: absolute;
+    top:458.5px;
+    left:639.5px;
+    border: 0.5px solid black;
+}
+#z4{
+    position: absolute;
+    top:458.5px;
+    left:714.5px;
+    border: 0.5px solid black;
+}
+z1{
+    width: 10px;
+    height:10px;
+    position: relative;
+    left:-8px;
+    top:20px;
+}
+z2{
+    width: 10px;
+    height:10px;
+    position: relative;
+    left:-8px;
+    top:20px;
+}
+z3{
+    width: 20px;
+    height:10px;
+    position: relative;
+    left:-8px;
+    top:20px;
+}
+z4{
+    width: 10px;
+    height:10px;
+    position: relative;
+    left:4px;
+    top:20px;
+}
+zi1{
+    width: 15px;
+    height:15px;
+    position: relative;
+    left:25px;
+    top:5px;
+}
+zi2{
+    width: 15px;
+    height:15px;
+    position: relative;
+    left:25px;
+    top:5px;
+}
+zi3{
+    width: 15px;
+    height:15px;
+    position: relative;
+    left:25px;
+    top:5px;
+}
+zi4{
+    width: 15px;
+    height:15px;
+    position: relative;
+    left:25px;
+    top:5px;
+}

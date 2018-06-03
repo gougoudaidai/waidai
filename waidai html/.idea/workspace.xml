@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11c13c5b-dfa8-4353-a573-2e4015d49b2d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="guanyuwomen.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../guanyuwomen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="63" selection-end-line="253" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pengxuanzi6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="14" selection-start-line="37" selection-start-column="11" selection-end-line="72" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pengxuanzi5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1292">
+              <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pengxuanzi4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2679" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weixinzhifu.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/images/weixinzhifu.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="yinhangkazhifu.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/images/yinhangkazhifu.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="wodedizhi.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goudaiwo/wodedizhi/wodedizhi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="186" column="59" lean-forward="true" selection-start-line="186" selection-start-column="59" selection-end-line="186" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pengxuanzi7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1026" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pengxuanzi8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1673" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guanyuwomen.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guanyuwomen/guanyuwomen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="127" column="16" lean-forward="true" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gaoshicheng/dingdanpeisong/wojiededan.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/shezhi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/yijianfankui.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodedizhi/wodedizhi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodedizhi/wodeshouhuodizhi1.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodedizhi/wodeshouhuodizhi2.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodedizhi/wodeshouhuodizhi3.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodedizhi/xindeshouhuodizhi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodeqianbao/jiaoyimingxi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodeqianbao/wodeqianbao.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/wodeqianbao/zhifushezhi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/pxz/moban.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi2.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi3.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi4.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi5.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi6.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr1.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr2.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr3.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr4.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr21.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr22.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr23.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr24.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/first.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd1.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd2.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd3.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd4.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kuaidi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/shitang.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st1.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st2.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st3.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st4.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhucedenglu/dengluye.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhucedenglu/qitadengtupian.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhucedenglu/zhucechenggong.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/zhucedenglu/zhuceye.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/yinsi/yinsi.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/shimingrenzheng.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/xindeshoujihao.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/xiugaishoujihao.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/zhanghaoyuanquan.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/zhuxiaozhanghao.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/index.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/guanyuwomen.html" />
+        <option value="$PROJECT_DIR$/gaoshicheng/guanyuwomen/guanyuwomen.html" />
+        <option value="$PROJECT_DIR$/guanyuwomen/guanyuwomen.html" />
+        <option value="$PROJECT_DIR$/goudaiwo/wodedizhi/wodedizhi.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="352" />
+    <option name="y" value="79" />
+    <option name="width" value="930" />
+    <option name="height" value="661" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="waidai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waidai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waidai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waidai" type="462c0819:PsiDirectoryNode" />
+              <item name="goudaiwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="waidai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="waidai" type="462c0819:PsiDirectoryNode" />
+              <item name="goudaiwo" type="462c0819:PsiDirectoryNode" />
+              <item name="wodedizhi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\dai\gaoshicheng\guanyuwomen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\dai\gaoshicheng" />
+      <recent name="C:\Users\Administrator\WebstormProjects\dai\gaoshicheng\goudaiwo\img" />
+      <recent name="C:\Users\Administrator\WebstormProjects\dai" />
+      <recent name="C:\Users\Administrator\WebstormProjects\dai\zhucedenglu" />
+      <recent name="C:\Users\Administrator\WebstormProjects\dai\zhuanwaikuai html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="kd1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:49811/dai/zhuanwaikuai html/kd1.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.kd1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11c13c5b-dfa8-4353-a573-2e4015d49b2d" name="Default" comment="" />
+      <created>1525434486815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525434486815</updated>
+      <workItem from="1525434490465" duration="4126000" />
+      <workItem from="1525493255074" duration="1710000" />
+      <workItem from="1525848341113" duration="1640000" />
+      <workItem from="1525855249011" duration="7797000" />
+      <workItem from="1526029474990" duration="651000" />
+      <workItem from="1526030361479" duration="1206000" />
+      <workItem from="1526034807205" duration="8212000" />
+      <workItem from="1526370076420" duration="2367000" />
+      <workItem from="1526374570753" duration="3742000" />
+      <workItem from="1526629988080" duration="2454000" />
+      <workItem from="1527386378219" duration="3195000" />
+      <workItem from="1527390363507" duration="751000" />
+      <workItem from="1527401377399" duration="780000" />
+      <workItem from="1527402620476" duration="6465000" />
+      <workItem from="1527682578761" duration="2541000" />
+      <workItem from="1527904825642" duration="5634000" />
+      <workItem from="1528008725565" duration="7590000" />
+      <workItem from="1528037733769" duration="1499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62360000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18594436" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18155198" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/pxz/moban.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi2.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi3.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi4.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi5.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/pxz/pengxuanzi6.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr2.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr3.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr4.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr21.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr22.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr23.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr24.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/first.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd1.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd2.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd3.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kd4.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/kuaidi.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/shitang.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st1.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st2.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st3.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/st4.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhucedenglu/dengluye.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhucedenglu/qitadengtupian.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhucedenglu/zhucechenggong.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhucedenglu/zhuceye.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/wodedizhi/wodedizhi.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/yinsi/yinsi.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/shimingrenzheng.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/xindeshoujihao.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/xiugaishoujihao.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/zhanghaoyuanquan.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/goudaiwo/shezhi/zhanghaoyuanquan/zhuxiaozhanghao.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/guanyuwomen.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/dingdanpeisong/dingdanpeisong.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/dingdanpeisong/wojiededan.html" />
+    <entry file="file://$PROJECT_DIR$/../guanyuwomen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="63" selection-end-line="253" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/index.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/zhuanwaikuai/ddqr1.html" />
+    <entry file="file://$PROJECT_DIR$/gaoshicheng/guanyuwomen/guanyuwomen.html" />
+    <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1673" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guanyuwomen/guanyuwomen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="127" column="16" lean-forward="true" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="11" selection-end-line="72" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxz/pengxuanzi4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2679" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxz/images/weixinzhifu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pxz/images/yinhangkazhifu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goudaiwo/wodedizhi/wodedizhi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="186" column="59" lean-forward="true" selection-start-line="186" selection-start-column="59" selection-end-line="186" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

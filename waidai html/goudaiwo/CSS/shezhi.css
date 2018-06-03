@@ -1,0 +1,115 @@
+div{
+    width:300px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+}
+div1{
+    width: 298px;
+    height: 40px;
+    background-color: white;
+    margin: 0 auto;
+}
+div2{
+    width: 298px;
+    height: 40px;
+    background-color: white;
+    margin: 0 auto;
+}
+#t{
+    border-top:black 1px solid ;
+    border-bottom:black 1px solid ;
+    border-left:black 1px solid ;
+    border-right:black 1px solid ;
+    box-shadow: gray 10px 20px 10px;
+}
+#x1{
+    position: absolute;
+    top:10px;
+    left:490.5px;
+}
+x1{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+xi1{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+y1{
+    position: relative;
+    left:35px;
+    top:10px;
+}
+yi1{
+    position: relative;
+    left:180px;
+    top:10px;
+}
+yi2{
+    position: relative;
+    left:197px;
+    top:10px;
+}
+yi3{
+    position: relative;
+    left:197px;
+    top:10px;
+}
+yi4{
+    position: relative;
+    left:165px;
+    top:10px;
+}
+yi5{
+    position: relative;
+    left:165px;
+    top:10px;
+}
+yi6{
+    position: relative;
+    left:229px;
+    top:10px;
+}
+yi7{
+    position: relative;
+    left:197px;
+    top:10px;
+}
+#y1{
+    position: absolute;
+    top:70px;
+    left:490.5px;
+}
+#y2{
+    position: absolute;
+    top:110px;
+    left:490.5px;
+}
+#y3{
+    position: absolute;
+    top:170px;
+    left:490.5px;
+}
+#y4{
+    position: absolute;
+    top:210px;
+    left:490.5px;
+}
+#y5{
+    position: absolute;
+    top:250px;
+    left:490.5px;
+}
+#y6{
+    position: absolute;
+    top:310px;
+    left:490.5px;
+}
+#y7{
+    position: absolute;
+    top:350px;
+    left:490.5px;
+}

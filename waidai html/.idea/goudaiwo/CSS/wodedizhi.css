@@ -1,0 +1,96 @@
+div{
+    width:300px;
+    height: 500px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+}
+div1{
+    width: 298px;
+    height: 40px;
+    background-color: white;
+    margin: 0 auto;
+}
+div3{
+    width: 298px;
+    height: 60px;
+    background-color: white;
+    margin: 0 auto;
+}
+div4{
+    width: 298px;
+    height: 40px;
+    background-color: white;
+    margin: 0 auto;
+}
+#t{
+    border-top:black 1px solid ;
+    border-bottom:black 1px solid ;
+    border-left:black 1px solid ;
+    border-right:black 1px solid ;
+    box-shadow: gray 10px 20px 10px;
+}
+#x1{
+    position: absolute;
+    top:10px;
+    left:490.5px;
+}
+x1{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+xi1{
+    position: relative;
+    left:10px;
+    top:10px;
+}
+#y1{
+    position: absolute;
+    top:70px;
+    left:490.5px;
+}
+#y2{
+    position: absolute;
+    top:140px;
+    left:490.5px;
+}
+#y3{
+    position: absolute;
+    top:210px;
+    left:490.5px;
+}
+#di{
+    position: absolute;
+    top:468px;
+    left:490.5px;
+}
+yi1{
+    position: relative;
+    left:10px;
+    top:17px;
+}
+yi2{
+    position: relative;
+    left:230px;
+    top:17px;
+}
+y1{
+    position: relative;
+    left:-10px;
+    top:0px;
+}
+y2{
+    position: relative;
+    left:50px;
+    top:0px;
+}
+yi3{
+    position: relative;
+    left:95px;
+    top:10px;
+}
+y3{
+    position: relative;
+    left:95px;
+    top:10px;
+}

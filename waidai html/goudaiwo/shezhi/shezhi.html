@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>设置</title>
+
+    <script type="text/javascript">
+
+        function success()
+        {
+            alert("设置成功！")
+        }
+
+    </script>
+
+    <link rel="stylesheet" href="../CSS/bootstrap-switch.css" type="text/css">
+    <link rel="stylesheet" href="../CSS/bootstrap-switch.min.css" type="text/css">
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+    <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+
+    <![endif]-->
+    <style type="text/css">
+
+        [class*="glyphicon-heart"]{
+            font-size:50px;
+            color:lightsalmon;
+        }
+
+        #size{
+            height: 280px;
+        }
+    </style>
+
+
+    <link rel="stylesheet" href="css/bootstrap3/bootstrap-switch.min.css">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../../index.html">首页</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="../../pxz/moban.html">我要找人带</a></li>
+                <li><a href="../../zhuanwaikuai/first.html">我要赚外快</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我的带带 <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../../dingdanpeisong/dingdanpeisong.html">我的订单</a></li>
+                        <li><a href="../../dingdanpeisong/wojiededan.html">我接的单</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">我的 <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="../wodeqianbao/wodeqianbao.html">我的钱包</a></li>
+                        <li><a href="../wodedizhi/wodedizhi.html">我的地址</a></li>
+                        <li><a href="shezhi.html">设置</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+            <form class="navbar-form navbar-left">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search">
+                </div>
+                <button type="submit" class="btn btn-default">搜索</button>
+            </form>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="../../zhucedenglu/dengluye.html">已有帐号登录</a></li>
+                <li><a href="../../zhucedenglu/zhuceye.html">注册</a></li>
+                <li><a href="../../guanyuwomen/guanyuwomen.html">关于我们</a></li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+&nbsp;
+<h1>
+    &nbsp;
+    设置
+    &nbsp;
+</h1>
+&nbsp;
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center">
+                    <h2>账号与安全</h2>
+                    <p style="font-size: 20px">&nbsp;<br>&nbsp;</p>
+                </div>
+                &nbsp;
+                <div style="text-align: center">
+                    <a href="zhanghaoyuanquan/zhanghaoyuanquan.html">
+                        <button style="width: 70px" type="button" class="btn btn-primary">&nbsp;修改&nbsp;</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center">
+                    <h2>切换语言</h2>
+                    <p style="font-size: 20px">&nbsp;<br>&nbsp;</p>
+                </div>
+                &nbsp;
+                <div style="margin: 0 auto">
+                    <button style="width: 70px" type="button" class="btn btn-primary btn-mid" data-toggle="modal" data-target="#myModal">
+                        中文
+                    </button>
+                    &nbsp;
+                    <button style="width: 70px" type="button" class="btn btn-danger btn-mid" data-toggle="modal" data-target="#myModal">
+                        Eng.
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center">
+                    <h2>图片设置</h2>
+                    <p style="font-size: 20px">2G/3G/4G网络下显示图片</p>
+
+                </div>
+                &nbsp;
+                <div style="margin: 0 auto">
+                    <button style="width: 70px" type="button" class="btn btn-primary btn-mid" data-toggle="modal" data-target="#myModal">
+                        开
+                    </button>
+                    &nbsp;
+                    <button style="width: 70px" type="button" class="btn btn-danger btn-mid" data-toggle="modal" data-target="#myModal">
+                        关
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center; width: 180px">
+                    <h2>首页活动设置</h2>
+                    <p style="font-size: 20px">关闭后不再收到首页弹窗提醒</p>
+
+                </div>
+                &nbsp;
+                <div style="margin: 0 auto">
+                    <button style="width: 70px" type="button" class="btn btn-primary btn-mid" data-toggle="modal" data-target="#myModal">
+                        开
+                    </button>
+                    &nbsp;
+                    <button style="width: 70px" type="button" class="btn btn-danger btn-mid" data-toggle="modal" data-target="#myModal">
+                        关
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center; width: 180px">
+                    <h2>消息提醒设置</h2>
+                    <p style="font-size: 20px">活动推送<br>&nbsp;</p>
+                </div>
+                &nbsp;
+                <div style="margin: 0 auto">
+                    <button style="width: 70px" type="button" class="btn btn-primary btn-mid" data-toggle="modal" data-target="#myModal">
+                        开
+                    </button>
+                    &nbsp;
+                    <button style="width: 70px" type="button" class="btn btn-danger btn-mid" data-toggle="modal" data-target="#myModal">
+                        关
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center">
+                    <h2>隐私</h2>
+                    <p style="font-size: 20px">&nbsp;<br>&nbsp;</p>
+                </div>
+                &nbsp;
+                <div style="text-align: center">
+                    <a href="yinsi/yinsi.html">
+                        <button style="width: 70px" type="button" class="btn btn-primary">&nbsp;修改&nbsp;</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+            <div id="size" class="jumbotron">
+                <div style="text-align:center">
+                    <h2>意见反馈</h2>
+                    <p style="font-size: 20px">&nbsp;<br>&nbsp;</p>
+                </div>
+                &nbsp;
+                <div style="text-align: center">
+                    <a href="yijianfankui.html">
+                        <button style="width: 70px" type="button" class="btn btn-primary">&nbsp;填写&nbsp;</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">温馨提示</h4>
+            </div>
+            <div class="modal-body">
+                设置成功！
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal">确认</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script src="js/bootstrap-switch.min.js"/>
+</body>
+</html>
